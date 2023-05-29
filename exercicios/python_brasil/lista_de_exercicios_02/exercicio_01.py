@@ -9,7 +9,8 @@ num2 = float(input("Insira outro valor: "))
 
 if num1 > num2:
     num_maior = num1
-
+    print(f"O valor maior é {num_maior:.1f}")
+    
 elif num2 == num1:
     print("Os valores são iguais.")
 
