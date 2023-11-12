@@ -15,3 +15,6 @@ for c in lista:
     print(c)
 
 print('Comprimento da lista:', len(lista))
+
+for c in range(len(lista)):
+    print(c)

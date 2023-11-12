@@ -35,3 +35,13 @@ print('Índice do elemento 12:', lista.index(12))
 # sort
 lista.sort(reverse=True)
 print(lista)
+
+# FUNÇÕES
+# len
+print(len(lista))
+
+# sum
+print(sum(lista))
+
+# max
+print('Maior elemento da lista:', )
